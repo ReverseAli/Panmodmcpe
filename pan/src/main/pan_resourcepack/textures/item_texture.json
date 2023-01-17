@@ -1,0 +1,21 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "pan_pan": {
+      "textures": "textures/items/panpan"
+    },
+    "panstick": {
+      "textures": "textures/items/panstick"
+    },
+    "ace_flag": {
+      "textures": "textures/items/aceflag"
+    },
+    "diamond_nugget": {
+      "textures": "textures/items/dimongiee"
+    },
+    "pan": {
+      "textures": "textures/items/pan"
+    }
+  }
+}

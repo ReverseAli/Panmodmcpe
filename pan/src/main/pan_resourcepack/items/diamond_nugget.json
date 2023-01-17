@@ -1,0 +1,15 @@
+{
+  "format_version": "1.12",
+  "minecraft:item": {
+    "description": {
+      "identifier": "pan:diamond_nugget",
+      "category": "Items",
+      "register_to_creative_menu": true
+    },
+    "components": {
+      "minecraft:icon": "diamond_nugget",
+      "minecraft:render_offsets": "apple",
+      "minecraft:creative_category": "Items"
+    }
+  }
+}

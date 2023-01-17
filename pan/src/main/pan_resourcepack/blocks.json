@@ -1,0 +1,14 @@
+{
+  "format_version": "1.16.100",
+  "pan:ace_block": {
+    "textures": {
+      "up": "pan_ace_block_up",
+      "down": "pan_ace_block_down",
+      "south": "pan_ace_block_south",
+      "north": "pan_ace_block_north",
+      "west": "pan_ace_block_west",
+      "east": "pan_ace_block_east"
+    },
+    "sound": "metal"
+  }
+}

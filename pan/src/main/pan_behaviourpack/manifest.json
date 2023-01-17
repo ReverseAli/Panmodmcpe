@@ -1,0 +1,46 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "pan",
+    "uuid": "96ac0342-a3cc-3955-be3d-4c9da9b821b0",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "data",
+      "uuid": "3c89c5d1-4bdc-370c-9923-c4029289497e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "dependencies": [
+    {
+      "uuid": "2d663602-5e3b-321e-b051-a2b908445e6a",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "alexw, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

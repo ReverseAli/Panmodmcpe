@@ -1,0 +1,142 @@
+{
+  "mod_elements": [
+    {
+      "name": "Pan",
+      "type": "tool",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pan"
+    },
+    {
+      "name": "Panre",
+      "type": "recipe",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "panre"
+    },
+    {
+      "name": "PanPan",
+      "type": "tool",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pan_pan"
+    },
+    {
+      "name": "Panstick",
+      "type": "item",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "panstick"
+    },
+    {
+      "name": "Pappanr",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pappanr"
+    },
+    {
+      "name": "DiamondNugget",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamond_nugget"
+    },
+    {
+      "name": "Nuggdi",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "nuggdi"
+    },
+    {
+      "name": "Dinugi",
+      "type": "recipe",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dinugi"
+    },
+    {
+      "name": "Panstickre",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "panstickre"
+    },
+    {
+      "name": "AceFlag",
+      "type": "tool",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ace_flag"
+    },
+    {
+      "name": "AceBlock",
+      "type": "block",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ace_block"
+    },
+    {
+      "name": "Acefr",
+      "type": "recipe",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "acefr"
+    },
+    {
+      "name": "Aceblockr",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "aceblockr"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [],
+  "language_map": {
+    "en_us": {
+      "item.pan:diamond_nugget.name": "Diamond Nugget",
+      "item.pan:pan.name": "Pan",
+      "item.pan:pan_pan.name": "Pan Pan",
+      "item.pan:ace_flag.name": "Ace Flag",
+      "tile.pan:ace_block.name": "Ace Block",
+      "item.pan:panstick.name": "Panstick"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "pan",
+    "modName": "pan",
+    "version": "1.0.0",
+    "author": "alexw, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "addon-1.19.x",
+    "modElementsPackage": "net.mcreator.pan",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200348217
+}

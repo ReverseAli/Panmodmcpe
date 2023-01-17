@@ -1,0 +1,38 @@
+{
+  "resource_pack_name": "vanilla",
+  "texture_name": "atlas.terrain",
+  "padding": 8,
+  "num_mip_levels": 0,
+  "texture_data": {
+    "pan_ace_block_up": {
+      "textures": [
+        "textures/blocks/acetop"
+      ]
+    },
+    "pan_ace_block_down": {
+      "textures": [
+        "textures/blocks/acebottom"
+      ]
+    },
+    "pan_ace_block_south": {
+      "textures": [
+        "textures/blocks/aceblock"
+      ]
+    },
+    "pan_ace_block_north": {
+      "textures": [
+        "textures/blocks/aceblock"
+      ]
+    },
+    "pan_ace_block_west": {
+      "textures": [
+        "textures/blocks/aceblock"
+      ]
+    },
+    "pan_ace_block_east": {
+      "textures": [
+        "textures/blocks/aceblock"
+      ]
+    }
+  }
+}

@@ -1,0 +1,40 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pan:pappanr"
+    },
+    "groups": [
+      "pan"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " 12",
+      " 45",
+      "6  "
+    ],
+    "key": {
+      "1": {
+        "item": "minecraft:redstone_block"
+      },
+      "2": {
+        "item": "minecraft:gold_block"
+      },
+      "4": {
+        "item": "minecraft:diamond_block"
+      },
+      "5": {
+        "item": "minecraft:redstone_wire"
+      },
+      "6": {
+        "item": "pan:panstick"
+      }
+    },
+    "result": {
+      "item": "pan:pan_pan",
+      "count": 1
+    }
+  }
+}

@@ -1,0 +1,36 @@
+{
+  "format_version": 2,
+  "header": {
+    "description": "",
+    "name": "pan",
+    "uuid": "2d663602-5e3b-321e-b051-a2b908445e6a",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      19,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "description": "",
+      "type": "resources",
+      "uuid": "40280141-5c63-31e7-8a50-b59619ae9b5c",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ],
+  "metadata": {
+    "authors": [
+      "alexw, MCreator"
+    ],
+    "url": "https://mcreator.net"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pan:dinugi"
+    },
+    "groups": [
+      "pan"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      "012",
+      "345",
+      "678"
+    ],
+    "key": {
+      "0": {
+        "item": "pan:diamond_nugget"
+      },
+      "1": {
+        "item": "pan:diamond_nugget"
+      },
+      "2": {
+        "item": "pan:diamond_nugget"
+      },
+      "3": {
+        "item": "pan:diamond_nugget"
+      },
+      "4": {
+        "item": "pan:diamond_nugget"
+      },
+      "5": {
+        "item": "pan:diamond_nugget"
+      },
+      "6": {
+        "item": "pan:diamond_nugget"
+      },
+      "7": {
+        "item": "pan:diamond_nugget"
+      },
+      "8": {
+        "item": "pan:diamond_nugget"
+      }
+    },
+    "result": {
+      "item": "minecraft:diamond",
+      "count": 1
+    }
+  }
+}
