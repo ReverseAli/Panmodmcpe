@@ -1,0 +1,50 @@
+{
+  "format_version": "1.12",
+  "minecraft:recipe_shaped": {
+    "description": {
+      "identifier": "pan:eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    "groups": [
+      "pan"
+    ],
+    "tags": [
+      "crafting_table"
+    ],
+    "pattern": [
+      " 1 ",
+      "345",
+      "678"
+    ],
+    "key": {
+      "1": {
+        "item": "minecraft:stick"
+      },
+      "3": {
+        "item": "minecraft:stick"
+      },
+      "4": {
+        "item": "minecraft:wool",
+        "data": 7
+      },
+      "5": {
+        "item": "minecraft:stick"
+      },
+      "6": {
+        "item": "minecraft:wool",
+        "data": 0
+      },
+      "7": {
+        "item": "minecraft:wool",
+        "data": 15
+      },
+      "8": {
+        "item": "minecraft:wool",
+        "data": 3
+      }
+    },
+    "result": {
+      "item": "pan:demiboy_flag",
+      "count": 1
+    }
+  }
+}

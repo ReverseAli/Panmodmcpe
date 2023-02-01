@@ -18,6 +18,11 @@
           "damage": 10
         }
       },
+      "pan:demiboy_flag": {
+        "minecraft:attack": {
+          "damage": 10
+        }
+      },
       "pan:pan": {
         "minecraft:attack": {
           "damage": 10
@@ -222,6 +227,19 @@
                   "test": "has_equipment",
                   "subject": "self",
                   "domain": "hand",
+                  "value": "pan:demiboy_flag"
+                }
+              ]
+            },
+            "event": "pan:demiboy_flag"
+          },
+          {
+            "filters": {
+              "all_of": [
+                {
+                  "test": "has_equipment",
+                  "subject": "self",
+                  "domain": "hand",
                   "value": "pan:pan"
                 }
               ]
@@ -267,6 +285,7 @@
         "remove": {
           "component_groups": [
             "pan:panstick",
+            "pan:demiboy_flag",
             "pan:pan",
             "pan:pan_pan",
             "pan:ace_flag"
@@ -277,6 +296,13 @@
         "add": {
           "component_groups": [
             "pan:panstick"
+          ]
+        }
+      },
+      "pan:demiboy_flag": {
+        "add": {
+          "component_groups": [
+            "pan:demiboy_flag"
           ]
         }
       },

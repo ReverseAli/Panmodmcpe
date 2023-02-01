@@ -103,15 +103,49 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "aceblockr"
+    },
+    {
+      "name": "DemiboyFlag",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demiboy_flag"
+    },
+    {
+      "name": "Eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee",
+      "type": "recipe",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee"
+    },
+    {
+      "name": "DemiBoyBlock",
+      "type": "block",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "demi_boy_block"
+    },
+    {
+      "name": "Dbb",
+      "type": "recipe",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dbb"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "tile.pan:demi_boy_block.name": "Demi Boy Block",
       "item.pan:diamond_nugget.name": "Diamond Nugget",
       "item.pan:pan.name": "Pan",
       "item.pan:pan_pan.name": "Pan Pan",
+      "item.pan:demiboy_flag.name": "Demiboy Flag",
       "item.pan:ace_flag.name": "Ace Flag",
       "tile.pan:ace_block.name": "Ace Block",
       "item.pan:panstick.name": "Panstick"

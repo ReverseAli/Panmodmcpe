@@ -10,5 +10,16 @@
       "east": "pan_ace_block_east"
     },
     "sound": "metal"
+  },
+  "pan:demi_boy_block": {
+    "textures": {
+      "up": "pan_demi_boy_block_up",
+      "down": "pan_demi_boy_block_down",
+      "south": "pan_demi_boy_block_south",
+      "north": "pan_demi_boy_block_north",
+      "west": "pan_demi_boy_block_west",
+      "east": "pan_demi_boy_block_east"
+    },
+    "sound": "cloth"
   }
 }

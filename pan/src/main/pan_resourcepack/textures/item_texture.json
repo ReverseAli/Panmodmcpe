@@ -16,6 +16,9 @@
     },
     "pan": {
       "textures": "textures/items/pan"
+    },
+    "demiboy_flag": {
+      "textures": "textures/items/demiboy"
     }
   }
 }
